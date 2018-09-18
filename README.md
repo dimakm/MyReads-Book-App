@@ -20,3 +20,9 @@ Once search results are displayed the user can move a book to a shelf by using t
 - run `npm start`
 
 A browser window with the working app should open
+
+### Dependencies
+Starter code from Udacity.
+Add book icon made by Flat Icons www.flaticon.com is licensed by Creative Commons BY 3.0
+Top photo in the main page from www.freepik.com
+
