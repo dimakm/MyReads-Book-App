@@ -15,8 +15,8 @@ Once search results are displayed the user can move a book to a shelf by using t
 
 
 ### Setup
-- clone/install the project folder 
-- open your terminal and change directory to project folder
+- clone/download the project folder from my GitHub [here's the link](https://github.com/dimakm/MyReads-Book-App)
+- open your terminal and change directory to project folder, example: cd c:/project-folder
 - make sure you have Node.js and npm installed, or get them [here](https://nodejs.org/it/download)
 - run `npm install` to install all required dependencies
 - run `npm start`
