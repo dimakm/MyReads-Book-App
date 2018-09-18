@@ -11,3 +11,12 @@ By clicking on the page bottom-right add book icon, the user will be  redirected
 
 Once search results are displayed the user can move a book to a shelf by using the dropdown provided on the bottm right of the book. 
 
+
+### Setup
+- clone/install the project folder 
+- open your terminal and change directory to project folder
+- make sure you have Node.js and npm installed, or get them [here](https://nodejs.org/it/download)
+- run `npm install` to install all required dependencies
+- run `npm start`
+
+A browser window with the working app should open
