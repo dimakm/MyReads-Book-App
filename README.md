@@ -15,6 +15,13 @@ Once search results are displayed the user can move a book to a shelf by using t
 
 
 ### Setup
+ 
+ #### Server Setup
+- git clone https://github.com/udacity/reactnd-contacts-server.git
+- `npm install`
+- `node server.js`
+
+#### UI Setup
 - clone/download the project folder from my GitHub [here's the link](https://github.com/dimakm/MyReads-Book-App)
 - open your terminal and change directory to project folder, example: cd c:/project-folder
 - make sure you have Node.js and npm installed, or get them [here](https://nodejs.org/it/download)
