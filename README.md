@@ -8,3 +8,6 @@ The main page contains shelves of books. The shelves are: currently reading, wan
 To completely remove a book from these shelves choose remove from the dropdown.
 
 By clicking on the page bottom-right add book icon, the user will be  redirected to `/search`  where we can search for books by typing a keyword in the search area.
+
+Once search results are displayed the user can move a book to a shelf by using the dropdown provided on the bottm right of the book. 
+
