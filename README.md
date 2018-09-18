@@ -7,7 +7,7 @@ This project was built for the Udacity Front End Web Developer Nanodegree Progra
 The main page contains shelves of books. The shelves are: currently reading, want to read and finished reading.the user can move a book from a shelf to another, by using the dropdown provided on bottom-right corner of each book.
 To completely remove a book from these shelves choose remove from the dropdown.
 
-![Main page](/screenshots/main.png?raw=true)
+![Main page](/images/screenshot.png?raw=true)
 
 By clicking on the page bottom-right add book icon, the user will be  redirected to `/search`  where we can search for books by typing a keyword in the search area.
 
@@ -24,7 +24,11 @@ Once search results are displayed the user can move a book to a shelf by using t
 A browser window with the working app should open
 
 ### Dependencies
-Starter code from Udacity.
-Add book icon made by Flat Icons www.flaticon.com is licensed by Creative Commons BY 3.0
-Top photo in the main page from www.freepik.com
+- I got the starter code from Udacity.
+- Search book icon made by Flat Icons www.flaticon.com is licensed by Creative Commons BY 3.0
+- Top photo in the main page is from www.freepik.com
+- https://reactjs.org/ answered many of my questions
+- Slack, Mentors, Forum were great help that I won't be able to complete the project without.
+
+-Special thanks to the reviewer
 
