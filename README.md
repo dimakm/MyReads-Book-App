@@ -28,7 +28,7 @@ A browser window with the working app should open
 - Search book icon made by Flat Icons www.flaticon.com is licensed by Creative Commons BY 3.0
 - Top photo in the main page is from www.freepik.com
 - https://reactjs.org/ answered many of my questions
-- Slack, Mentors, Forum mates were great help that I won't be able to complete the project without.
+- Slack, Mentors, Forum, mates, youtube videos were great help that I won't be able to complete the project without.
 
 -Special thanks to the reviewer
 
