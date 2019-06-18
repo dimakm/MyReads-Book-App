@@ -1,5 +1,5 @@
 # MyReads-Book-App
-Udacity-GWG FEND project
+Grow With Google, FEND project
 
 This project was built for the Udacity Front End Web Developer Nanodegree Program, the purpose is to build a good understanding of React. 
 
